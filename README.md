@@ -1,2 +1,2 @@
-# myprof
-My profile page
+# Trello-Like Interface
+This is a demonstration of Trello-like interface
